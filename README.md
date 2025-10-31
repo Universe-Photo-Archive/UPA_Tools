@@ -1,2 +1,2 @@
-# DSCOVR-ANIMATION
-Create an animation in GIF or MP4 format from DSCOVR satellite photos.
+# UPA Tools
+Create an animation in GIF or MP4 format from DSCOVR, GOES or HIMAWARI satellite photos.
